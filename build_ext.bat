@@ -1,0 +1,1 @@
+py -3.8 bhc.py build_ext --inplace
