@@ -9,4 +9,4 @@ az……*破不出来啊！*
 它安全！
 
 
-声明：本软件引用了cmdapi(https://github.com/xmlsax/cmdapi)，故使用GPLv3.0协议。
+声明：本软件引用了cmdapi (https://github.com/xmlsax/cmdapi/ )，故使用GPLv3.0协议。
