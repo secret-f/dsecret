@@ -7,3 +7,6 @@
 它安全吗？我要破译一个它加密的文件！
 az……*破不出来啊！*
 它安全！
+
+
+声明：本软件引用了cmdapi(https://github.com/xmlsax/cmdapi)，故使用GPLv3.0协议。
